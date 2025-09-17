@@ -5,10 +5,14 @@
 	<key>NSPrivacyTrackingDomains</key>
 	<array/>
 	<key>NSPrivacyAccessedAPITypes</key>
-	<array/>
+	<string>NSPrivacyAccessedAPICategoryFileTimestamp</string>
 	<key>NSPrivacyCollectedDataTypes</key>
 	<array/>
 	<key>NSPrivacyTracking</key>
 	<false/>
+	<key>NSPrivacyAccessedAPITypeReasons</key>
+    <array>
+        <string>C617.1</string>
+    </array>
 </dict>
 </plist>
